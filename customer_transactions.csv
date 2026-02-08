@@ -1,0 +1,13 @@
+TransactionID,CustomerID,Date,Region,ProductCategory,ProductName,Quantity,UnitPrice,PaymentMode
+T001,C101,2023-01-05,South,Electronics,Headphones,2,1500,Credit Card
+T002,C102,2023-01-06,North,Clothing,T-Shirt,3,500,UPI
+T003,C103,2023-01-07,East,Grocery,Rice Bag,1,1200,Cash
+T004,C101,2023-01-08,South,Electronics,Power Bank,1,2000,Credit Card
+T005,C104,2023-01-09,West,Clothing,Jeans,2,1800,Debit Card
+T006,C105,2023-01-10,North,Electronics,Smart Watch,1,5000,UPI
+T007,C102,2023-01-11,North,Grocery,Oil Bottle,5,250,Cash
+T008,C106,2023-01-12,East,Clothing,Shirt,2,1200,Debit Card
+T009,C107,2023-01-13,South,Grocery,Sugar,3,150,Cash
+T010,C108,2023-01-14,West,Electronics,Earbuds,1,2500,Credit Card
+T011,C101,2023-01-14,South,Electronics,Earbuds,1,2500,Credit Card
+T012,C104,2023-01-15,West,Grocery,Wheat Flour,2,800,UPI
